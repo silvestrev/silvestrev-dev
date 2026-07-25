@@ -19,7 +19,7 @@ export const Hero = () => {
             Victor Silvestre
           </h1>
           <p className="font-mono text-xs uppercase tracking-widest text-white/40">
-            Front End Software Engineer
+            Frontend Software Engineer
           </p>
         </div>
       </div>

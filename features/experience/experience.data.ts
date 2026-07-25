@@ -7,7 +7,7 @@ export type ExperienceEntry = {
 
 export const experience: ExperienceEntry[] = [
   {
-    role: 'Software Engineer II – Junior',
+    role: 'Frontend Software Engineer II – Junior',
     company: 'XP Investimentos',
     period: 'March 2026 — Present',
     highlights: [
@@ -16,7 +16,7 @@ export const experience: ExperienceEntry[] = [
     ],
   },
   {
-    role: 'Software Engineer I – Assistant',
+    role: 'Frontend Software Engineer I – Assistant',
     company: 'XP Investimentos',
     period: 'August 2024 — February 2026',
     highlights: [

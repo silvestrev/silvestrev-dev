@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Victor Silvestre — Software Engineer',
-  description: 'Portfolio of Victor Silvestre, software engineer.',
+  title: 'Victor Silvestre — Frontend Software Engineer',
+  description: 'Portfolio of Victor Silvestre, frontend engineer.',
 };
 
 type RootLayoutProps = Readonly<{
